@@ -1,6 +1,8 @@
 ## Hi there 👋
  I am Ankit, a Computer Science and Engineering (CSE) student specializing in Data Science, currently based in Bhopal.
+ 
  I am currently a first-year student at LNCTE Bhopal, passionate about designing and building innovative technology solutions.
+ 
  I've got a bunch of pinned projects, but my favorite is the showing the top 10 Indian states with the highest number of reported rape cases in 2023
  
 
