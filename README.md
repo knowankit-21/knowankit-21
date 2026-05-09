@@ -1,5 +1,5 @@
 ## Hi there 👋
-## “I am Ankit, a Computer Science and Engineering (CSE) student specializing in Data Science, currently based in Bhopal.”
+ “I am Ankit, a Computer Science and Engineering (CSE) student specializing in Data Science, currently based in Bhopal.”
 ## 
 
 <!--
