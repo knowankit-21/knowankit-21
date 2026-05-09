@@ -1,6 +1,6 @@
 ## Hi there 👋
- “I am Ankit, a Computer Science and Engineering (CSE) student specializing in Data Science, currently based in Bhopal.”
-## 
+ I am ##Ankit, a Computer Science and Engineering (CSE) student specializing in Data Science, currently based in Bhopal.
+
 
 <!--
 **knowankit-21/knowankit-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
